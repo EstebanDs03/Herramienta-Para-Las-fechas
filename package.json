@@ -1,0 +1,20 @@
+{
+  "name": "fechas",
+  "version": "1.0.0",
+  "description": "Herramienta para manejo de fechas",
+  "license": "MIT",
+  "author": "Juan Esteban Arbelaez Durango <je578400@gmail.com>",
+  "type": "commonjs",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fechas",
+    "date",
+    "time",
+    "timezone",
+    "utc",
+    "moment"
+  ]
+}
