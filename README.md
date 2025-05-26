@@ -1,4 +1,4 @@
-# fechas
+# fechas Esteban Arbelaez
 
 Este proyecto proporciona funciones sencillas para trabajar con fechas y horas en JavaScript.
 

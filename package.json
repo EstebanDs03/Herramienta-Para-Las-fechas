@@ -1,11 +1,11 @@
 {
-  "name": "fechas",
+  "name": "fechas_esteban_arbelaez",
   "version": "1.0.0",
   "description": "Herramienta para manejo de fechas",
   "license": "MIT",
   "author": "Juan Esteban Arbelaez Durango <je578400@gmail.com>",
   "type": "commonjs",
-  "main": "/src/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
